@@ -9,7 +9,7 @@ TODO: Essa lib server para coletar os erros do app em produção
   manga_easy_crashlytics_service:
      git: 
       url: https://github.com/manga-easy/manga_easy_crashlytics_service.git
-      ref: 1.0.0
+      ref: v1.0.0
   ```
 ## Usage
 
